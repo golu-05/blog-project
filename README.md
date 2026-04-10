@@ -63,9 +63,6 @@ npm install
 # Start the development server
 npm start
 
-📸 Screenshots
-
-Add screenshots of your project here (UI, blog creation page, etc.)
 
 🎯 Learning Outcomes
 Gained strong understanding of React fundamentals
